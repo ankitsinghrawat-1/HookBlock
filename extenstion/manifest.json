@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Quick Phish Guard",
+  "name": "HookBlock",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "action": {
