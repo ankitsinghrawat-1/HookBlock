@@ -33,3 +33,8 @@
 1. **Clone the Project:**
    ```bash
    git clone [https://github.com/ankitsinghrawat-1/hookblock.git](https://github.com/ankitsinghrawat-1/hookblock.git)
+2. **Open Extensions:** Navigate to chrome://extensions/ in Chrome.
+
+3. **Developer Mode:** Toggle the switch in the top-right corner.
+
+4. **Load Unpacked:** Click the button and select the hookblock folder.
