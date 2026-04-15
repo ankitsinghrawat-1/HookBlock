@@ -1,4 +1,3 @@
-# HookBlock 🛡️
 ### *Real-Time Phishing Detection & Security Guard*
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -33,8 +32,19 @@
 1. **Clone the Project:**
    ```bash
    git clone [https://github.com/ankitsinghrawat-1/hookblock.git](https://github.com/ankitsinghrawat-1/hookblock.git)
-2. **Open Extensions:** Navigate to chrome://extensions/ in Chrome.
+   ```
+   make sure you install the requirements using
+   ```bash
+   pip install -r requirements.txt
+   ```  
+   and run the server using
+   ```bash
+   python app.py
+   ```
+      *(note: server should run on a active window)*
+   
+3. **Open Extensions:** Navigate to [chrome://extensions/](chrome://extensions/) in Chrome.
 
-3. **Developer Mode:** Toggle the switch in the top-right corner.
+4. **Developer Mode:** Toggle the switch in the top-right corner.
 
-4. **Load Unpacked:** Click the button and select the hookblock folder.
+5. **Load Unpacked:** Click the button and select the hookblock folder.
